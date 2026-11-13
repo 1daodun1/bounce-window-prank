@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 1daodun1
+Copyright (c) 2026 小花公主 / 桌面弹弹弹 · 朋友的酒
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+附加说明 / 音频素材
+
+- 程序播放的 `reference-audio.wav`（《朋友的酒》）与 `41834646747-1-192.mp4` 版权归原作者所有，
+  仅作本地演示，未包含在本仓库中，请自行准备合法来源的素材。
+- 仓库代码（C# / Python / 脚本）按上述 MIT 条款授权。
