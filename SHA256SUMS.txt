@@ -1,0 +1,5 @@
+# 成品校验值（sha256sum 格式）
+# 校验：Windows 上执行  certutil -hashfile 桌面弹弹弹.exe SHA256
+# 或 PowerShell：  Get-FileHash .\桌面弹弹弹.exe -Algorithm SHA256
+bd09b7ac97cc9906510f53368e73891e442738f88a2d9ffc5636aa9d9dbe1c4a  桌面弹弹弹.exe
+34721b8af32735c5a179dca2483d4d139274330d22be07eb3124295265e9f3fd  备份-126MB自解压版.exe
